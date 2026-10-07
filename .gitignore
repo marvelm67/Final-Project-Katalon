@@ -1,0 +1,16 @@
+# Katalon
+Reports/
+bin/
+.metadata/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+
+# Credentials (jangan commit file glbl dengan password)
+# Hanya default.glbl tanpa credential sensitif yang aman di-commit
